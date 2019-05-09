@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    
+}
+
+
+p {
+    font-size: 12pt;
+    font-family: 'Courier';
+    line-height: 20pt;
+}
+
+footer {
+    background-color: orange;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Raleway';
+}
+
+a:hover {
+    color: black;
+}
+
+.container {
+    width: 955px;
+    background-color: aquamarine;
+    border: 10px 
+}
